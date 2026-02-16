@@ -1,7 +1,3 @@
-# Simple Python Calculator
-# Created by [Your Name]
-# First Year Computer Science Student - Italy
-
 def add(a, b):
     return a + b
 
